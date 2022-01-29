@@ -44,10 +44,10 @@
  }
  
  body {
-     background-color: #313842;
-     background: #6979ad;
-     background: -webkit-linear-gradient(to right, #975959, #5a7ff8);
-     background: linear-gradient(to right, #bd7070, #6679b8);
+     background-color: #0c2241;
+     background: #1a223d;
+     background: -webkit-linear-gradient(to right, #000308, #030d2e);
+     background: linear-gradient(to right, #ddc0db, #6b8bf1);
  }
  
  .social-media {
@@ -58,7 +58,7 @@
  .socialmedia {
      padding-top: 10%;
      padding: 10% 10% 10%;
-     text-align: center;
+     text-align: ;
  }
  
  .social-media:hover {
